@@ -1,7 +1,5 @@
 # Laravel Q/A
 
-Laravel Q/A is an application that replicate StackOverlow. Users can ask a questions or answer other user's questions.
-
 ## Installation
 
 1. Download the code by clicking **Code**, **Download ZIP**. Or if you have Git install in your machine, you can run this in your teminal.
